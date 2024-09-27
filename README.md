@@ -32,13 +32,12 @@ Here are some of the technologies I work with:
 
 Feel free to reach out to me!
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- Email: your-email@example.com
+- [LinkedIn](linkedin.com/in/mandar-gurjar-36a095259)
+- Email: mandargurjar73@gmail.com
 
 ## 🌱 I’m currently learning...
 
-- [List any new technologies or frameworks you're currently exploring]
+- [Mobile Application development]
 
 ## 🔧 GitHub Stats
 
