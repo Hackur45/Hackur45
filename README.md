@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm [Mandar Gurjar]
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create innovative solutions and learn new technologies.
 
@@ -42,9 +42,9 @@ Feel free to reach out to me!
 
 ## 🔧 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackur45show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackur45&layout=compact&theme=radical)
 
 ---
 
