@@ -1,51 +1,69 @@
-# 👋 Hi there! I'm [Mandar Gurjar]
+# Hello, I'm Mandar Gurjar 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to create innovative solutions and learn new technologies.
+Welcome to my GitHub profile! I'm a software developer skilled in web development (React, MERN stack) and AI/ML. I have a strong background in competitive programming (C++) and project leadership. My focus is on contributing innovative solutions in tech, making a difference through technology.
 
-Work under progress....
-## 🚀 Technologies & Tools
+## 🌐 About Me
+- 🔭 I’m currently pursuing **B.Tech in Information Technology** at Shri Ramdeobaba College of Engineering and Management, Nagpur.
+- 🎓 Honors in **WEB3** at Shri Ramdeobaba College of Engineering and Management (2023 - 2026).
+- 🌱 I’m currently learning more about **AI/ML**, **Web Development**, and **Cybersecurity**.
+- 👨‍💻 Competitive Programmer proficient in **C++**.
+- 🎯 Passionate about developing efficient and scalable solutions.
+- 📫 Reach me at [mandargurjar73@gmail.com](mailto:mandargurjar73@gmail.com).
 
-Here are some of the technologies I work with:
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackur45&show_icons=true&theme=radical)
 
-### Frontend
+## 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackur45&layout=compact&theme=radical)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## 🏆 GitHub Badges
+[![GitHub Followers](https://img.shields.io/github/followers/Hackur45?label=Followers&style=social)](https://github.com/Hackur45)
+[![GitHub Stars](https://img.shields.io/github/stars/Hackur45?label=Stars&style=social)](https://github.com/Hackur45)
 
-### Backend
+## 🌟 Featured Projects
+Here are some of my featured public repositories:
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- **[Capture the Flag Platform](https://github.com/Hackur45/CaptureTheFlag)** - A cybersecurity competition platform with live score displays using the MERN stack.
+  - Developed secure encryption mechanisms, increasing participation by 30% and improving security by 40%.
+- **[Automated Research Document Generator](https://github.com/Hackur45/ResearchDocumentGenerator)** - A web app that automates research using web scraping and AI, enhancing document efficiency by 60%.
+  - Reduced research time for users by 50% and improved content coherence.
+- **[Personal Portfolio Website](https://github.com/Hackur45/PersonalPortfolioWebsite)** - A responsive personal portfolio website developed with React and Bootstrap.
+  - Optimized for user experience, reducing bounce rates by 15% on mobile and desktop.
 
-### Databases
+## 🛠️ Skills & Technologies
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Frameworks & Technologies
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge)
 
-## 🌟 Projects
+## 📋 Certifications
+- **Joy of Computing Using Python** - IIT Ropar (NPTEL)
+- **React Basics** - Meta (Coursera)
+- **Work Smarter with PowerPoint** - Coursera
 
-- **[Project 1](link-to-your-project)**: A brief description of what this project does.
-- **[Project 2](link-to-your-project)**: A brief description of what this project does.
-- **[Project 3](link-to-your-project)**: A brief description of what this project does.
+## 🎓 Education
+- **B.Tech in Information Technology** - Shri Ramdeobaba College of Engineering and Management, Nagpur (2022 - 2026)
+- **Honors in WEB3** - Shri Ramdeobaba College of Engineering and Management (2023 - 2026)
 
-## 📫 Get in Touch
+## 🤝 Extra-Curricular Activities
+- Technical Lead at Association of Computer Machinery (ACM), RCOEM Chapter.
+- Technical Co-lead at Semicolon Tech Club: Led Capture the Flag platform development using MERN stack.
 
-Feel free to reach out to me!
+## 📈 Contribution Graph
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Hackur45&theme=redical)
 
-- [LinkedIn](linkedin.com/in/mandar-gurjar-36a095259)
-- Email: mandargurjar73@gmail.com
-
-## 🌱 I’m currently learning...
-
-- [Mobile Application development]
-
-## 🔧 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackur45&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackur45&layout=compact&theme=radical)
-
----
-
-Thanks for stopping by! Happy coding! 🎉
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mandar-gurjar-36a095259)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hackur45)
