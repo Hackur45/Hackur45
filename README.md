@@ -16,10 +16,12 @@ Welcome to my GitHub profile! I'm a software developer skilled in web developmen
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackur45&layout=compact&theme=radical)
 
-## 🏆 Holopin Badges
+## 🏆 GitHub & Holopin Badges
+[![GitHub Followers](https://img.shields.io/github/followers/Hackur45?label=Followers&style=social)](https://github.com/Hackur45)
+[![GitHub Stars](https://img.shields.io/github/stars/Hackur45?label=Stars&style=social)](https://github.com/Hackur45)
 
-![Holopin Badge 1](https://holopin.io/api/user/embedded/hackur45/badge/cm1jk5tyd07910djogetqdhn6)
-![Holopin Badge 2](https://holopin.io/api/user/embedded/hackur45/badge/cm2nff8gm61880cjyah5rjrgc)
+[![@hackur45's Holopin board](https://holopin.io/api/user/board?user=hackur45)](https://holopin.io/@hackur45)
+
 
 
 ## 🌟 Featured Projects
