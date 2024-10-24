@@ -22,6 +22,8 @@ Welcome to my GitHub profile! I'm a software developer skilled in web developmen
 
 [![@hackur45's Holopin board](https://holopin.io/api/user/board?user=hackur45)](https://holopin.io/@hackur45)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hackur45&theme=radical&margin-w=15&margin-h=15)](https://github.com/Hackur45)
 
 
 ## 🌟 Featured Projects
