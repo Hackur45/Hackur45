@@ -11,10 +11,11 @@ Welcome to my GitHub profile! I'm a software developer skilled in web developmen
 - 📫 Reach me at [mandargurjar73@gmail.com](mailto:mandargurjar73@gmail.com).
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackur45&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hackur45&show_icons=true&theme=tokyonight)
 
 ## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackur45&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackur45&layout=compact&theme=tokyonight)
+
 
 ## 🏆 GitHub & Holopin Badges
 [![GitHub Followers](https://img.shields.io/github/followers/Hackur45?label=Followers&style=social)](https://github.com/Hackur45)
