@@ -62,6 +62,9 @@ Here are some of my featured public repositories:
 - **React Basics** - Meta (Coursera)
 - **Work Smarter with PowerPoint** - Coursera
 
+## 🖥️ Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hackur45&theme=radical&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🎓 Education
 - **B.Tech in Information Technology** - Shri Ramdeobaba College of Engineering and Management, Nagpur (2022 - 2026)
 - **Honors in WEB3** - Shri Ramdeobaba College of Engineering and Management (2023 - 2026)
