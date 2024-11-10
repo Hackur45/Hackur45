@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a software developer skilled in web development (React, MERN stack) and AI/ML. I have a strong background in competitive programming (C++) and project leadership. My focus is on contributing innovative solutions in tech, making a difference through technology.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Hackur45&color=brightgreen)
+
 ## 🌐 About Me
 - 🔭 I’m currently pursuing **B.Tech in Information Technology** at Shri Ramdeobaba College of Engineering and Management, Nagpur.
 - 🎓 Honors in **WEB3** at Shri Ramdeobaba College of Engineering and Management (2023 - 2026).
@@ -16,18 +18,11 @@ Welcome to my GitHub profile! I'm a software developer skilled in web developmen
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackur45&layout=compact&theme=radical&text_color=ffffff&bg_color=000000)
 
+## 🏆 Gamified GitHub Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hackur45&theme=tokyo-night&bg_color=0d1117&color=3e8e7e&line=66ff00&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-## 🏆 GitHub & Holopin Badges
-[![GitHub Followers](https://img.shields.io/github/followers/Hackur45?label=Followers&style=social)](https://github.com/Hackur45)
-[![GitHub Stars](https://img.shields.io/github/stars/Hackur45?label=Stars&style=social)](https://github.com/Hackur45)
-
-[![An image of @hackur45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hackur45)](https://holopin.io/@hackur45)
-
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hackur45&theme=radical&margin-w=15&margin-h=15)](https://github.com/Hackur45)
-
+## 🏆 Selected GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hackur45&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Featured Projects
 Here are some of my featured public repositories:
@@ -61,9 +56,6 @@ Here are some of my featured public repositories:
 - **Joy of Computing Using Python** - IIT Ropar (NPTEL)
 - **React Basics** - Meta (Coursera)
 - **Work Smarter with PowerPoint** - Coursera
-
-## 🖥️ Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hackur45&theme=radical&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎓 Education
 - **B.Tech in Information Technology** - Shri Ramdeobaba College of Engineering and Management, Nagpur (2022 - 2026)
