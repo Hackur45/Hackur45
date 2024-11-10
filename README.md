@@ -70,9 +70,6 @@ Here are some of my featured public repositories:
 - Technical Lead at Association of Computer Machinery (ACM), RCOEM Chapter.
 - Technical Co-lead at Semicolon Tech Club: Led Capture the Flag platform development using MERN stack.
 
-## 📈 Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Hackur45&theme=redical)
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mandar-gurjar-36a095259)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hackur45)
