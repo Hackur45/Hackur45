@@ -21,6 +21,9 @@ Welcome to my GitHub profile! I'm a software developer skilled in web developmen
 ## 🏆 Gamified GitHub Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hackur45&theme=tokyo-night&bg_color=0d1117&color=3e8e7e&line=66ff00&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🏅 My Holopin Badges
+[![An image of @hackur45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hackur45)](https://holopin.io/@hackur45)
+
 ## 🏆 Selected GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hackur45&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
