@@ -1,10 +1,11 @@
 # Hello, I'm Mandar Gurjar 👋  
 
-Welcome to my GitHub profile! I'm a software developer skilled in **Web Development (React, MERN stack)** and **AI/ML**.  
-I have a strong background in **Competitive Programming (C++)** and **Project Leadership**.  
-My focus is on **building innovative tech solutions** and **making an impact**.  
+<span style="color: #4CAF50;">Welcome to my GitHub profile!</span>  
+<span style="color: #0073e6;">I'm a software developer skilled in <strong>Web Development (React, MERN stack)</strong> and <strong>AI/ML</strong>.</span> 
+<span style="color: #42a5f5;">I have a strong background in <strong>Competitive Programming (C++)</strong> and <strong>Project Leadership</strong>.</span>  
+<span style="color: #8e44ad;">My focus is on <strong>building innovative tech solutions</strong> and <strong>making an impact</strong>.</span>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hackur45&color=brightgreen)  
+![Profile Views](https://komarev.com/ghpvc/?username=Hackur45&color=brightgreen)
 
 <div align="center">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400"/>
