@@ -1,4 +1,4 @@
-# Hello, I'm Mandar Gurjar 👋  
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ROBOTO&weight=600&size=25&pause=1000&color=B771F7&width=435&lines=Hello%2C+I'm+Mandar+Gurjar+%F0%9F%91%8B++" alt="Typing SVG" /></a>
 
 <span style="color: #4CAF50;">Welcome to my GitHub profile!</span>  
 <span style="color: #0073e6;">I'm a software developer skilled in <strong>Web Development (React, MERN stack)</strong> and <strong>AI/ML</strong>.</span> 
