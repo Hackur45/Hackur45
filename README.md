@@ -1,5 +1,6 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ROBOTO&weight=600&size=25&pause=1000&color=B771F7&width=435&lines=Hello%2C+I'm+Mandar+Gurjar+%F0%9F%91%8B++" alt="Typing SVG" /></a>
 
+
 <span style="color: #4CAF50;">Welcome to my GitHub profile!</span>  
 <span style="color: #0073e6;">I'm a software developer skilled in <strong>Web Development (React, MERN stack)</strong> and <strong>AI/ML</strong>.</span> 
 <span style="color: #42a5f5;">I have a strong background in <strong>Competitive Programming (C++)</strong> and <strong>Project Leadership</strong>.</span>  
@@ -49,10 +50,9 @@
 
 ### 🚀 Programming Languages  
 <p align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/languages/python.gif?raw=true" width="50"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge"/>
@@ -62,29 +62,26 @@
 
 ### 🌐 Frameworks & Technologies  
 <p align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/frameworks/react.gif?raw=true" width="50"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white&style=for-the-badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50"/>
+
   <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧠 AI/ML & Data Science  
+### 🧠 Dev Tools  
 <p align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/ml/tensorflow.gif?raw=true" width="50"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
 </p>
+
 
 ---
 
