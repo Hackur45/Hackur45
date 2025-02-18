@@ -37,6 +37,8 @@
 
 ![GitHub Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hackur45&theme=radical&hide_border=true)  
 
+[![An image of @hackur45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hackur45)](https://holopin.io/@hackur45)
+
 </div>  
 
 ---
