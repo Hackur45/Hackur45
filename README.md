@@ -1,10 +1,10 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ROBOTO&weight=600&size=25&pause=1000&color=B771F7&width=435&lines=Hello%2C+I'm+Mandar+Gurjar+%F0%9F%91%8B++" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ROBOTO&weight=600&size=25&pause=1000&color=B771F7&width=435&lines=Hey+there%2C+I'm+Mandar+Gurjar+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-
-<span style="color: #4CAF50;">Welcome to my GitHub profile!</span>  
-<span style="color: #0073e6;">I'm a software developer skilled in <strong>Web Development (React, MERN stack)</strong> and <strong>AI/ML</strong>.</span> 
-<span style="color: #42a5f5;">I have a strong background in <strong>Competitive Programming (C++)</strong> and <strong>Project Leadership</strong>.</span>  
-<span style="color: #8e44ad;">My focus is on <strong>building innovative tech solutions</strong> and <strong>making an impact</strong>.</span>
+<p align="center">
+  <b><span style="color: #4CAF50;">Aspiring Software Developer | Tech Explorer | AI & Web Enthusiast</span></b><br/>
+  <span style="color: #0073e6;">Crafting clean UIs, scalable backends, and intelligent systems</span><br/>
+  <span style="color: #42a5f5;">Passionate about innovation, impact, and continuous learning</span>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hackur45&color=brightgreen)
 
@@ -12,13 +12,17 @@
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="400"/>
 </div>
 
+---
+
 ## 🌐 About Me  
-- 🔭 Pursuing **B.Tech in Information Technology** at Shri Ramdeobaba College of Engineering and Management, Nagpur.  
-- 🎓 Honors in **WEB3** (2023 - 2026).  
-- 🌱 Exploring **AI/ML**, **Web Development**, and **Competitive Programming**.  
-- 👨‍💻 Competitive Programmer proficient in **C++**.  
-- 🎯 Passionate about **developing efficient & scalable solutions**.  
-- 📫 Reach me at [mandargurjar73@gmail.com](mailto:mandargurjar73@gmail.com).  
+
+- 🎓 B.Tech in **Information Technology** | Shri Ramdeobaba College of Engineering and Management, Nagpur  
+- 🏅 Honors in **WEB3** (2023–2026)  
+- 💻 Technical Lead @ ACM RCOEM | Ex-Technical Co-lead @ Semicolon Tech Club  
+- 🚀 Competitive Programmer in **C++**  
+- 🌱 Exploring **AI/ML**, **MERN Stack**, and **System Design**  
+- 🧠 Focused on building **impactful products** and **robust systems**  
+- 📫 Reach me at: [mandargurjar73@gmail.com](mailto:mandargurjar73@gmail.com)
 
 ---
 
@@ -40,6 +44,17 @@
 [![An image of @hackur45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hackur45)](https://holopin.io/@hackur45)
 
 </div>  
+
+---
+
+## 🐍 GitHub Contribution Snake  
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Hackur45/Hackur45/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Hackur45/Hackur45/blob/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://github.com/Hackur45/Hackur45/blob/output/github-snake-dark.svg">
+  </picture>
+</p>
 
 ---
 
@@ -70,7 +85,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge"/>
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50"/>
-
   <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
 </p>
@@ -84,19 +98,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
 </p>
 
-
 ---
 
 ## 🎖️ Certifications  
-- **Joy of Computing Using Python** - IIT Ropar (NPTEL)  
-- **React Basics** - Meta (Coursera)  
-- **Work Smarter with PowerPoint** - Coursera  
+- **Joy of Computing Using Python** – IIT Ropar (NPTEL)  
+- **React Basics** – Meta (Coursera)  
+- **Work Smarter with PowerPoint** – Coursera  
 
 ---
 
 ## 🎓 Education  
-- **B.Tech in Information Technology** - Shri Ramdeobaba College of Engineering and Management, Nagpur (2022 - 2026)  
-- **Honors in WEB3** (2023 - 2026)  
+- **B.Tech in Information Technology** – Shri Ramdeobaba College of Engineering and Management (2022–2026)  
+- **Honors in WEB3** (2023–2026)  
 
 ---
 
